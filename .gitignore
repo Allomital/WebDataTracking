@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+breach_report_*.json
